@@ -1,6 +1,6 @@
 # Contributing to the CI/CD Cybersecurity Guide
 
-## Dockerfile and Docker Compose alternative 
+## Dockerfile and Docker Compose alternative
 Please note that the Dockerfile and Docker Compose instructions are currently supported for the CI/CD Cybersecurity Guide, so that serves an alternative to the steps below where the dependencies are installed locally on your machine.
 
 ## Get Started with Local Development 
