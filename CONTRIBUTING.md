@@ -3,7 +3,7 @@
 ## Dockerfile and Docker Compose alternative
 Please note that the Dockerfile and Docker Compose instructions are currently supported for the CI/CD Cybersecurity Guide, so that serves an alternative to the steps below where the dependencies are installed locally on your machine.
 
-## Get Started with Local Development
+## Get Started with Local Development 
 If you are running the CI/CD Cybersecurity Guide locally, you can build the site, index its pages for search, and preview the site in your browser:
 1. Make sure you have [Hugo](https://gohugo.io/getting-started/installing/) and [Go](https://go.dev/doc/install) installed.
 2. Clone the repository:
